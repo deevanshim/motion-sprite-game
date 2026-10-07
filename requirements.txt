@@ -1,0 +1,4 @@
+pygame
+pyserial
+requests
+python-dotenv
